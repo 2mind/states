@@ -5,6 +5,7 @@ devpkgs:
       - tmuxstart-git
       - git
       - tig
+      - hub
       - mercurial
       - the_silver_searcher
       - inotify-tools
