@@ -1,4 +1,4 @@
 include:
   - xen.kernel
-  - xen.grub
+  - xen.pv-grub
   - xen.fstab
