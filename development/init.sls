@@ -2,7 +2,6 @@ devpkgs:
   pkg.installed:
     - names:
       - vim
-      - tmuxstart-git
       - git
       - tig
       - hub
