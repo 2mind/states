@@ -1,2 +1,5 @@
-nodejs:
-  pkg.installed
+nodepkgs:
+  pkg.installed:
+    - names:
+      - nodejs
+      - n
